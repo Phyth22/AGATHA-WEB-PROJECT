@@ -1,0 +1,22 @@
+.body{
+    background-color: cornsilk;
+}
+
+
+.card{
+    display:grid;
+ text-align: center;
+    grid-template-columns: auto auto auto auto auto;
+    padding: 10px;
+}
+    
+
+.column3{
+    border-radius: 10px;
+}
+img{
+width: 200px;
+height: 300px;
+border-radius: 10px;
+
+}
